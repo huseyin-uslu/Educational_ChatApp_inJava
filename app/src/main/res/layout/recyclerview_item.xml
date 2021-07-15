@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:background="@color/black"
+    android:padding="10dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:layout_width="0dp"
+        android:layout_height="80dp"
+        android:layout_weight="6.5"
+        android:src="@drawable/usericon"
+        android:background="@drawable/edittext_background"
+        />
+
+    <TextView
+        android:id="@+id/textView_inRecyclerViewItem"
+        android:layout_width="0dp"
+        android:layout_height="80dp"
+        android:gravity="center"
+        android:layout_weight="16"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:background="@drawable/edittext_background"
+        android:text="USER NAME"
+        android:textColor="@color/white"/>
+
+</LinearLayout>

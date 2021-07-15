@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "583698317662",
+    "firebase_url": "https://chatapp-injava-v2-default-rtdb.firebaseio.com",
+    "project_id": "chatapp-injava-v2",
+    "storage_bucket": "chatapp-injava-v2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583698317662:android:fcbd734d8389dd2f584fcf",
+        "android_client_info": {
+          "package_name": "com.firstprojects.chatappinjava_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583698317662-212mdt5013c5jo4ovoqfcbc2b0kms1da.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgVx7VPSvZnpVpOQctQAlhtxIkWZGortA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583698317662-212mdt5013c5jo4ovoqfcbc2b0kms1da.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
